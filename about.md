@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: 'About '
 permalink: /about/
 published: true
 ---
@@ -11,7 +11,6 @@ I'll post useful rescourses as well.
 
 <img src="http://www.hackthebox.eu/badge/image/102094" alt="Hack The Box">
 
-&lt;img src=&quot;https://www.hackthebox.eu/badge/team/image/1764&quot; alt=&quot;Hack The Box&quot;&gt;
 
 ### Contact me
 
