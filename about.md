@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 published: true
 ---
 
-Some information about you!
+I am a cybersecurity student. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
