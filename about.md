@@ -11,7 +11,7 @@ I'll post useful rescourses as well.
 
 <script src="https://www.hackthebox.eu/badge/102094"></script>
 
-&lt;script src=&quot;https://www.hackthebox.eu/badge/team/1764&quot;&gt;&lt;/script&gt;
+&lt;img src=&quot;https://www.hackthebox.eu/badge/team/image/1764&quot; alt=&quot;Hack The Box&quot;&gt;
 
 ### Contact me
 
