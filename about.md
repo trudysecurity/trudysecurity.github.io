@@ -10,7 +10,7 @@ My plans are to document things I find interesting here as I go through school.
 I'll post useful rescourses as well. 
 
 <script src="https://www.hackthebox.eu/badge/102094"></script>
-&lt;script src=&quot;https://www.hackthebox.eu/badge/team/1764&quot;&gt;&lt;/script&gt;
+<script src="https://www.hackthebox.eu/badge/team/1764"></script>
 
 ### Contact me
 
