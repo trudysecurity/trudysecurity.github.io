@@ -71,7 +71,7 @@ published: true
 
 
 
-### Viewing `wp-config.php`save loads a blank screen
+### Viewing `wp-config.php.save` loads a blank screen
 
 
 
@@ -131,7 +131,7 @@ published: true
 
 
 
-### dev and devtest don't work as a username
+### `dev and devtest` don't work as a username
 
 
 
@@ -165,8 +165,7 @@ published: true
 
 
 
-### Theres a module called ‘wp_admin’ that can be used when you have admin credentials on a 
-### wordpress site. 
+### Theres a module called ‘wp_admin’ that can be used when you have admin credentials on a wordpress site. 
 
 
 
@@ -185,7 +184,7 @@ published: true
 
 
 
-### next I populate the info 
+### Next I populate the info 
 
 
 
@@ -239,7 +238,7 @@ published: true
 
 
 
-### cat `/etc/passwd` we find user `katie`
+### `cat /etc/passwd` we find user `katie`
 
 
 
