@@ -165,7 +165,7 @@ published: true
 
 
 
-### Theres a module called ‘wp_admin’ that can be used when you have admin credentials on a wordpress site. 
+### Theres a module called `wp_admin` that can be used when you have admin credentials on a wordpress site. 
 
 
 
