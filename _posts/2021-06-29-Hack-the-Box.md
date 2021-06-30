@@ -59,7 +59,7 @@ published: true
 
 
 
-### Removing the index.php from the URL give us 
+### Removing the `index.php` from the URL give us 
 
 
 
@@ -71,7 +71,7 @@ published: true
 
 
 
-### Viewing wp-config.php.save loads a blank screen
+### Viewing `wp-config.php`save loads a blank screen
 
 
 
@@ -119,7 +119,7 @@ published: true
 
 
 
-### main/index.php leads us to our login portal
+### `main/index.php` leads us to our login portal
 
 
 
@@ -145,7 +145,7 @@ published: true
 
 
 
-### 'administrator:devteam01' gets us a foothold
+### `administrator:devteam01` gets us a foothold
 
 
 
@@ -239,7 +239,7 @@ published: true
 
 
 
-### cat /etc/passwd we find user katie
+### cat `/etc/passwd` we find user `katie`
 
 
 
@@ -260,7 +260,7 @@ published: true
 
 
 
-### find / -name *passwd* 2>/dev/null 
+### `find / -name *passwd* 2>/dev/null` 
 
 
 
@@ -274,7 +274,7 @@ published: true
 
 
 
-### inside of the /etc/autologin/passwd we find 
+### inside of the `/etc/autologin/passwd` we find 
 
 
 
@@ -288,7 +288,7 @@ published: true
 
 
 
-### We can now ssh into the system with the credentials katie:SummerHereWeCome!!
+### We can now ssh into the system with the credentials `katie:SummerHereWeCome!!`
 
 
 
