@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-
+# Spectra Writeup
 ![1-1.png]({{site.baseurl}}/htb/spectra/1-1.png)
 
 
