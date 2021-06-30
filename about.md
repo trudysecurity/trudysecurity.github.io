@@ -11,10 +11,13 @@ I'll post useful rescourses as well.
 
 
 
-[trudysecurity@protonmail.com](mailto:trudysecurity@protonmail.com)
+
 <img src="http://www.hackthebox.eu/badge/image/102094" alt="Hack The Box">
 
 
+
+
+[trudysecurity@protonmail.com](mailto:trudysecurity@protonmail.com)
 
 
 
