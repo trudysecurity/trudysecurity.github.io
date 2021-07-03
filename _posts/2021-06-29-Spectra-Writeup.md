@@ -327,10 +327,7 @@ published: true
 
 
 
-
-
-# Root
-Checking permissions
+### Checking permissions
 
 
 ![1-1.png]({{site.baseurl}}/htb/spectra/8b8ad00afd3144aeb74e10f990a32d1a.png)
@@ -339,28 +336,34 @@ Checking permissions
 
 ![1-1.png]({{site.baseurl}}/htb/spectra/c711201e42e1434399b7494b9a0b1981.png)
 
-test.conf is owned by root but we have write permissions as katie is in the developers group
+### test.conf is owned by root but we have write permissions as katie is in the developers group
 
 
 ![1-1.png]({{site.baseurl}}/htb/spectra/4c8338e9d8374a249c147953af0721f4.png)
-Let's edit the above script
+
+### Let's edit the above script
 
 
 ![1-1.png]({{site.baseurl}}/htb/spectra/10cad3a3a4de4329b11740c5bb6bc25f.png)
+
 `sudo /sbin/initctl start test`
 
 
 ![1-1.png]({{site.baseurl}}/htb/spectra/94173dd8c9bf448a9557ce30866b9af6.png)
-We have to be quick or the test.conf file will be overwritten
+
+### We have to be quick or the test.conf file will be overwritten
+
 `/bin/bash -p`
 
 
 ![1-1.png]({{site.baseurl}}/htb/spectra/6b8c3d2259f14de1adb5d6f7dc59f314.png)
-Below we get our root flag!
+
+### Below we get our root flag!
 
 
 ![1-1.png]({{site.baseurl}}/htb/spectra/362921d9c00a4aa08854cd87984f530c.png)
-Machine Owned
+
+### Machine Owned
 
 
 
