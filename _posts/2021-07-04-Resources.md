@@ -9,10 +9,10 @@ published: true
 
 
 
-[Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
+[Pentestmonkey Reverse Shell Cheat Sheet](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 
 
-[Wargames](https://overthewire.org/wargames/)
+[Over the Wire Wargames](https://overthewire.org/wargames/)
 
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
