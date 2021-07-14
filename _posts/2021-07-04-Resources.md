@@ -14,7 +14,7 @@ published: true
 
 [Over the Wire Wargames](https://overthewire.org/wargames/)
 
-[OWASP Top 10](https://owasp.org/www-project-top-ten/)
+[OWASP Top 10 Webb Application Security Risks](https://owasp.org/www-project-top-ten/)
 
 
 
