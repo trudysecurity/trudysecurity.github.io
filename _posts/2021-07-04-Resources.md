@@ -17,5 +17,4 @@ published: true
 [OWASP Top 10 Webb Application Security Risks](https://owasp.org/www-project-top-ten/)
 
 
-
-
+[Creating msfvenom Payloads](https://netsec.ws/?p=331)
